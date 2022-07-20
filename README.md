@@ -2,9 +2,8 @@
 
 ## My statistics :dart:
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktord2000&langs_count=8&layout=compact">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=wiktord2000&theme=blux">
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktord2000&langs_count=8&layout=compact&count-private=true">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=wiktord2000&theme=blux&count-private=true">
          
 <!--
 **wiktord2000/wiktord2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,12 +6,11 @@
 <br>:telescope: I'm interested in web development mostly frontend but I have basic knowledge of the backend <br> and I have no grudge against this part.
 <br>:trumpet: Personally, I really like listening to music and my hobby is playing in the brass orchestra. 
 
-</div>
 
 ## My statistics :dart:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wiktord2000&theme=blux&count_private=true">
-<img src="https://github-readme-stats-wiktord2000.vercel.app/api/top-langs/?username=wiktord2000&langs_count=8&layout=compact&count_private=true">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktord2000&theme=blux&count_private=true">
+<img height="180"src="https://github-readme-stats-wiktord2000.vercel.app/api/top-langs/?username=wiktord2000&langs_count=8&layout=compact&count_private=true">
 
 
 ## Technologies && Languages 
@@ -25,6 +24,8 @@
 <img src="https://img.shields.io/badge/-C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C Sharp"/><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
 
 <img src="https://img.shields.io/badge/-.NET-512BD4?&logoColor=white&style=for-the-badge" alt=".NET"/><img src="https://img.shields.io/badge/-django-092E20?&logoColor=white&style=for-the-badge" alt="django"/>
+
+</div>
 
 <!-- Views -->
 <img align="right" src="https://gpvc.arturio.dev/wiktord2000">

@@ -1,6 +1,6 @@
-<div align="center">
+# <p align="center">Hi, I'm Wiktor👋</p> 
 
-# Hi, I'm Wiktor 👋
+<div align="center">
 
 :mortar_board: Computer science student at Wrocław University of Science and Technology (currently last semester of study).
 <br>:telescope: I'm interested in web development mostly frontend but I have basic knowledge of the backend <br> and I have no grudge against this part.
@@ -31,19 +31,3 @@
 <br>
 <!-- Views -->
 <img align="right" src="https://gpvc.arturio.dev/wiktord2000">
-
-
-<!--
-**wiktord2000/wiktord2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

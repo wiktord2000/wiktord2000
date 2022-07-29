@@ -1,10 +1,6 @@
 # Hi, I'm Wiktor 👋
 
-#### :mortar_board: Computer science student at Wrocław University of Science and Technology (currently last semester of study)
-#### :telescope: I'm interested in web development mostly frontend but I have basic knowledge of the backend and I have no grudge against this part
-#### :trumpet: Personally, I really like listening to music and my hobby is playing in the brass orchestra 
-sadasd
-
+### :mortar_board: Computer science student at Wrocław University of Science and Technology (currently last semester of study)<br>:telescope: I'm interested in web development mostly frontend but I have basic knowledge of the backend and I have no grudge against this part<br>:trumpet: Personally, I really like listening to music and my hobby is playing in the brass orchestra 
 
 <div align="center">
 

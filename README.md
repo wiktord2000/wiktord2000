@@ -23,8 +23,8 @@
 
 ## My statistics :dart:
 
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktord2000&theme=blux&count_private=true">
-<img  src="https://github-readme-stats-wiktord2000.vercel.app/api/top-langs/?username=wiktord2000&langs_count=8&layout=compact&count_private=true">
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktord2000&theme=blux&count_private=true">
+<img height="160" src="https://github-readme-stats-wiktord2000.vercel.app/api/top-langs/?username=wiktord2000&langs_count=8&layout=compact&count_private=true">
 
 </div>
 

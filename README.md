@@ -2,11 +2,9 @@
 
 # Hi, I'm Wiktor 👋
 
-###### :mortar_board: Computer science student at Wrocław University of Science and Technology (currently last semester of study)<br>:telescope: I'm interested in web development mostly frontend but I have basic knowledge of the backend and I have no grudge against this part<br>:trumpet: Personally, I really like listening to music and my hobby is playing in the brass orchestra 
+:mortar_board: Computer science student at Wrocław University of Science and Technology (currently last semester of study)<br>:telescope: I'm interested in web development mostly frontend but I have basic knowledge of the backend and I have no grudge against this part<br>:trumpet: Personally, I really like listening to music and my hobby is playing in the brass orchestra 
 
-<div align="center">
-
-## Technologies && Languages :rocket:
+## Technologies && Languages 
 
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/><img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
 

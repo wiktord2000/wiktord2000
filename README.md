@@ -25,7 +25,7 @@
 <img height="180" src="https://github-readme-stats-wiktord2000.vercel.app/api/top-langs/?username=wiktord2000&langs_count=8&layout=compact&count_private=true">
 
 </div>
-
+<br>
 <!-- Views -->
 <img align="right" src="https://gpvc.arturio.dev/wiktord2000">
 

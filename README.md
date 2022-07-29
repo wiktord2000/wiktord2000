@@ -1,9 +1,9 @@
 # Hi, I'm Wiktor 👋
 
-- :mortar_board: Computer science student at Wrocław University of Science and Technology (currently last semester of study)<br>
-- :telescope: I'm interested in web development mostly frontend but I have basic knowledge of the backend and I have no grudge against this part <br>
-- :trumpet: Personally, I really like listening to music and my hobby is playing in the brass orchestra 
-
+#### :mortar_board: Computer science student at Wrocław University of Science and Technology (currently last semester of study)
+#### :telescope: I'm interested in web development mostly frontend but I have basic knowledge of the backend and I have no grudge against this part
+#### :trumpet: Personally, I really like listening to music and my hobby is playing in the brass orchestra 
+sadasd
 
 
 <div align="center">
@@ -23,8 +23,8 @@
 
 ## My statistics :dart:
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktord2000&theme=blux&count_private=true">
-<img height="160" src="https://github-readme-stats-wiktord2000.vercel.app/api/top-langs/?username=wiktord2000&langs_count=8&layout=compact&count_private=true">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktord2000&theme=blux&count_private=true">
+<img height="180" src="https://github-readme-stats-wiktord2000.vercel.app/api/top-langs/?username=wiktord2000&langs_count=8&layout=compact&count_private=true">
 
 </div>
 

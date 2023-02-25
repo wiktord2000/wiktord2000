@@ -19,11 +19,13 @@
 
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/><img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular"/>
 
-<img src="https://img.shields.io/badge/-Ant Design-0170FE?&logo=ant design&logoColor=white&style=for-the-badge" alt="Ant Design"/><img src="https://img.shields.io/badge/-Material-3f51b5?&logo=angular&logoColor=white&style=for-the-badge" alt="Angular Material"/><img src="https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=for-the-badge" alt="Ant Design"/>
+<img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge" alt="Redux"/><img src="https://img.shields.io/badge/-NgRx-ba2bd2?logo=angular&logoColor=white&style=for-the-badge" alt="NgRx"/>
+  
+<img src="https://img.shields.io/badge/-Material-3f51b5?&logo=angular&logoColor=white&style=for-the-badge" alt="Angular Material"/><img src="https://img.shields.io/badge/-MUI-007FFF?&logo=mui&logoColor=white&style=for-the-badge" alt="MUI"/><img src="https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=for-the-badge" alt="Ant Design"/>
 
-<img src="https://img.shields.io/badge/-C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C Sharp"/><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+<img src="https://img.shields.io/badge/-C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C Sharp"/><img src="https://img.shields.io/badge/-ASP.NET-512BD4?&logoColor=white&style=for-the-badge" alt=".NET"/>
+  
 
-<img src="https://img.shields.io/badge/-.NET-512BD4?&logoColor=white&style=for-the-badge" alt=".NET"/><img src="https://img.shields.io/badge/-django-092E20?&logoColor=white&style=for-the-badge" alt="django"/>
 
 </div>
 

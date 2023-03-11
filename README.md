@@ -2,7 +2,7 @@
 
 <div align="center">
 
-:mortar_board: Computer science student at Wrocław University of Science and Technology.
+:mortar_board: Graduate of Computer science at Wrocław University of Science and Technology (bachelor's degree).
 <br>:telescope: I'm interested in web development and especially frontend but I have also basic knowledge of the backend <br> and I have no grudge against this part.
 <br>:trumpet: Personally, I really like listening to music and my hobby is playing in the brass orchestra. 
 

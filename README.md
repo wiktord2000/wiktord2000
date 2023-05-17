@@ -15,9 +15,10 @@
 <p align="center">Reload in case of error :arrows_counterclockwise:</p>
 
 ## Technologies && Languages 
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/><img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
 
-<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/><img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
-
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/><img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="SASS"/>
+  
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/><img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular"/>
 
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge" alt="Redux"/><img src="https://img.shields.io/badge/-NgRx-ba2bd2?logo=angular&logoColor=white&style=for-the-badge" alt="NgRx"/>

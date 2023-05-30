@@ -7,7 +7,7 @@
 <br>:trumpet: Personally, I really like listening to music and my hobby is playing in the brass orchestra. 
 
 
-## My statistics :dart:
+## Statistics :dart:
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktord2000&theme=blux&count_private=true&mode=weekly">
 <img height="180"src="https://github-readme-stats-wiktord2000.vercel.app/api/top-langs/?username=wiktord2000&langs_count=8&layout=compact&count_private=true&bg_color=263d46&title_color=28ecfa&text_color=ffffff">

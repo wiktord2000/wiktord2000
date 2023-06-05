@@ -32,4 +32,5 @@
 </div>
 
 <!-- Views -->
-<img align="right" src="https://gpvc.arturio.dev/wiktord2000">
+<!-- ![](https://komarev.com/ghpvc/?username=wiktord2000&color=green) -->
+<img align="right" src="https://komarev.com/ghpvc/?username=wiktord2000">

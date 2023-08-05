@@ -31,6 +31,6 @@
 
 </div>
 
-<!-- Views -->
+<!-- Views: -->
 <!-- ![](https://komarev.com/ghpvc/?username=wiktord2000&color=green) -->
 <img align="right" src="https://komarev.com/ghpvc/?username=wiktord2000">
